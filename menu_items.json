@@ -7,7 +7,7 @@
     {
         "name": "Promotions and Events",
         "id": "events_link",
-        "href": "/events",
+        "href": "/promotions_and_events",
         "show_sub_menu": false
     },
     {
