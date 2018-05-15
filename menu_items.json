@@ -20,15 +20,10 @@
                 "id": "stores_link",
                 "href": "/pages/eastgate-leasing"
             },
+            
             {
-                "name": "Speciality Leasing",
-                "id": "stores_link",
-                "href": "/pages/eastgate-speciality-leasing-inquiries"
-            },
-            {
-                "name": "Photos",
-                "id": "stores_link",
-                "href": "/photos"
+                "name": "Customer Service ",
+                "href": "/pages/eastgate-customer-service"
             }
         ]
     },
@@ -41,10 +36,6 @@
             {
                 "name": "Contact Us ",
                 "href": "/contact_us"
-            },
-            {
-                "name": "Customer Service ",
-                "href": "/pages/eastgate-customer-service"
             },
             {
                 "name": "Directions",
