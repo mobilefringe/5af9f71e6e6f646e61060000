@@ -35,23 +35,11 @@
             {
                 "name": "Directions",
                 "href": "/find_us"
+            },{
+                "name": "Leasing ",
+                "id": "stores_link",
+                "href": "/pages/eastgate-leasing"
             },
-            {
-                "name": "About Us",
-                "href": "/pages/eastgate-about-us"
-            },
-            {
-                "name": "Jobs",
-                "href": "/jobs"
-            },
-            {
-                "name": "Shopping Hours",
-                "href": "/hours"
-            },
-            {
-                "name": "Community",
-                "href": "/community"
-            }
         ]
     }
 ]
