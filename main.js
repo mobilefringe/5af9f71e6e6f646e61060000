@@ -32,9 +32,9 @@ require.config({
         'lightbox': 'https://mmvue.codecloudapp.com/lightbox',
         //mappplic-png--map dependencies
         'mousewheel' : 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min',
-        'mapplic' : 'https://preview-mmvue.codecloudapp.com/mapplic',
+        'mapplic' : 'https://mmvue.codecloudapp.com/mapplic',
         'hammer' : 'https://codecloud.cdn.speedyrails.net/sites/59bac7db6e6f644f22ba0000/text/javascript/1484859750000/hammer.min',
-        'mapplic-png-map' : 'http://preview-mmvue.codecloudapp.com/mapplic_png.vue?noext',
+        'mapplic-png-map' : 'http://mmvue.codecloudapp.com/mapplic_png.vue?noext',
         'vue-simple-spinner': 'https://cdn.jsdelivr.net/npm/vue-simple-spinner@1.2.8/dist/vue-simple-spinner.min',
         'loader' : 'http://mmvue.codecloudapp.com/loader.vue?noext',
         'vue-lazy-load': 'https://unpkg.com/vue-lazyload/vue-lazyload'
