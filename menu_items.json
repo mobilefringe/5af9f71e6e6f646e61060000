@@ -12,7 +12,7 @@
     },
     {
         "name": "Guest Services",
-        "id": "leasing_link",
+        "id": "services_link",
         "href": "#",
         "show_sub_menu": false,
         "sub_menu": [
