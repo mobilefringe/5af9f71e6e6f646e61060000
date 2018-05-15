@@ -37,7 +37,6 @@ require.config({
         'mapplic-png-map' : 'http://preview-mmvue.codecloudapp.com/mapplic_png.vue?noext',
         'vue-simple-spinner': 'https://cdn.jsdelivr.net/npm/vue-simple-spinner@1.2.8/dist/vue-simple-spinner.min',
         'vue-lazy-load': 'https://unpkg.com/vue-lazyload/vue-lazyload'
-        
     }
 });
 
