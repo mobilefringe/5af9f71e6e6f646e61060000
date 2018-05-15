@@ -29,7 +29,6 @@ require.config({
         'vue-select': 'https://cdn.jsdelivr.net/npm/vue-select@2.3.0/dist/vue-select.min',
         'vue-social-sharing': 'https://cdn.jsdelivr.net/npm/vue-social-sharing@2.3.1/dist/vue-social-sharing.min',
         'vee-validate' : 'https://cdn.jsdelivr.net/npm/vee-validate@latest/dist/vee-validate',
-        'v-calendar': 'https://unpkg.com/v-calendar@0.5.1/lib/v-calendar.min',
         'lightbox': 'https://mmvue.codecloudapp.com/lightbox',
         //mappplic-png--map dependencies
         'mousewheel' : 'https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min',
