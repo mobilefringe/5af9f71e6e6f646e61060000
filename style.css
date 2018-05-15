@@ -845,7 +845,7 @@ ul.nav li.dropdown:hover > .dropdown-menu-hover {
     position:relative;
     background-color: #666666;
     &:first-child {
-        margin-bottom: 4px;
+        margin-bottom: 5px;
     }
     .feature_overlay{
         position: absolute;
