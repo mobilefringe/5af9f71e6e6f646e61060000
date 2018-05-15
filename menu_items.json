@@ -11,12 +11,6 @@
         "show_sub_menu": false
     },
     {
-        "name": "Promotions",
-        "id": "sales_link",
-        "href": "/promotions",
-        "show_sub_menu": false
-    },
-    {
         "name": "Leasing",
         "id": "leasing_link",
         "href": "#",
