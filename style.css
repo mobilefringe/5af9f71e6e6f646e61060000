@@ -276,7 +276,7 @@ a{
     // width:228px;
     height:100%;
     width:100%;
-    margin-bottom:4px;
+    // margin-bottom:4px;
 }
 .req_star {
     color: #cb1014;
@@ -845,7 +845,7 @@ ul.nav li.dropdown:hover > .dropdown-menu-hover {
     position:relative;
     background-color: #666666;
     &:first-child {
-            margin-bottom: 4px;
+        margin-bottom: 4px;
     }
     .feature_overlay{
         position: absolute;
