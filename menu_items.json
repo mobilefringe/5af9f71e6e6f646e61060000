@@ -33,6 +33,11 @@
                 "href": "/contact_us"
             },
             {
+                "name": "Hours ",
+                "id": "stores_link",
+                "href": "/pages/eastgate-leasing"
+            },
+            {
                 "name": "Directions",
                 "href": "/find_us"
             },
