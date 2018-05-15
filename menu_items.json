@@ -34,7 +34,6 @@
             },
             {
                 "name": "Hours ",
-                "id": "stores_link",
                 "href": "/pages/eastgate-leasing"
             },
             {
@@ -43,7 +42,6 @@
             },
             {
                 "name": "Leasing ",
-                "id": "stores_link",
                 "href": "/pages/eastgate-leasing"
             }
         ]
