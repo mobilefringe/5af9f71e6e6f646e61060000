@@ -15,12 +15,7 @@
         "id": "leasing_link",
         "href": "#",
         "show_sub_menu": false,
-        "sub_menu": [{
-                "name": "Leasing ",
-                "id": "stores_link",
-                "href": "/pages/eastgate-leasing"
-            },
-            
+        "sub_menu": [
             {
                 "name": "Customer Service ",
                 "href": "/pages/eastgate-customer-service"
