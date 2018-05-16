@@ -494,7 +494,7 @@ ul.nav li.dropdown:hover > .dropdown-menu-hover {
 }
 .dropdown-menu {
     display:block;
-    margin: 6px auto;
+    margin: 0px auto 6px;
     .dropdown-item {
         padding: 5px;   
     }
