@@ -3283,7 +3283,12 @@ legend{
 	border-top-color: #B0B0B0; 
 	background-color: #FFFFFF;
 }
-
+.mapplic-zoom-buttons {
+    left: auto;
+    right: 0;
+    bottom: auto!important;
+    top: 0px;
+}
 .store_row_name{
    color:#000000;   
 }
